@@ -5,9 +5,9 @@ title: Home Page
 next: guide
 #heroImage: /ueda4googleplaystore.png
 heroText: Magic Label™
-tagline: The world-changing pre-printed QR code label you can set an URL by your mobile as you like!
-actionText: Get Started →
-actionLink: https://magiclabel.uedasoft.com
+tagline: The world-changing pre-printed QR code sticker you can set an URL!
+actionText: Let's try Demo App to get How Magic Label™ works.
+actionLink: https://ml.uedasoft.com/demo
 footer: © Atelier Ueda
 posted: 2020-04-07
 ---
@@ -32,12 +32,14 @@ posted: 2020-04-07
     <p>The sample product is available from the link above. Ordered items will be delivered by aerogram.</p>
     <img src="https://i.imgur.com/4e652et.png">
   </div>
+<!--  
   <div class="feature">
     <h2 style="color: #3a5169;">Also, you can make your own Magic Label™</h2>
     <a href="https://magiclabel.uedasoft.com/">go to the site</a>
     <p>You can get a printable image of your Magic Label™ at the site so get it and print it that suits your purpose freely. Without buying pre-printed Magic Label™, you will get one Magic Label™ image at sign-in to the Magic Label™. Please enjoy with print it.</p>
   </div>
+-->
 </div>
 
-## For example you can...
+## For example you can use for ...
 - Fix outdated or wrong URL on the posters. Paste onto old QR code to cover with the Magic Label™ and set the correct URL on it.

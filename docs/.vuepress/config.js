@@ -41,7 +41,7 @@ module.exports = {
     
     nav: [
       { text: 'Guide', link: '/guide/'},
-      { text: 'back to App', link: '/'},
+      { text: 'Shop', link: 'https://payhip.com/b/bj4t2'},
     ]
   }
 }
