@@ -14,13 +14,17 @@ posted: 2020-04-07
 <div class="features">
   <div class="feature">
     <h2 style="color: #3a5169;">Magic Label™ is the Pre-printed QR code label sticker</h2>
-    <img src="https://i.imgur.com/C3KaAsN.jpg">
+    <img src="./ss.2023-07-07.19.46.46.png">
     <p><a href="./guide/how-it-works">How it works?</a></p>
-    <p>Magic Label™ is a Pre-printed QR code label sticker that can be stuck everywhere, you can be set a web address by your mobile. By virtue of this, you can create a QR code anytime and anywhere without a printer.</p>
+    <p>Magic Label™ is a <b>Pre-printed QR code label sticker</b> you can stuck everywhere, and quite amazingly <b>you can set a URL</b> on it with your mobile.</p>
+    <p>The <b>first scan</b>, your mobile goes to the site for setting a URL.</p>
+    <p><b>Subsequent scan</b> works to go to the URL you've set as an ordinary QR code.</p>
+    <p>Get hands-on experience with our <a href="https://ml.uedasoft.com/demo">demo site</a>.</p>
   </div>
   <div class="feature">
-    <h2 style="color: #3a5169;">No dedicated stuffs required, all with your mobile</h2>
+    <h2 style="color: #3a5169;">No need to carry around a <a href="https://www.amazon.co.jp/s?k=label+printer">label printer</a> device.</h2>
     <p>No need to prepare any special hardware, nor install any special software. You can set a redirect URL with an ordinary QR code reader app on your mobile, like iOS default camera application. At the first time of reading the unused Magic Label™, you will be led to the page for URL registration. You can associate it with the URL which you register here. Once the URL is registered, it can be used same as a normal QR code. Reading this, you will be redirected to the registered URL.</p>
+    <img src="./ss.2023-07-06.15.28.19.png">
   </div>
   <div class="feature">
     <h2 style="color: #3a5169;">Changing the registered redirect URL and referring to how many redirected</h2>
