@@ -5,6 +5,7 @@ module.exports = {
   base: '/docs/',
   head: [
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Parisienne&display=swap' }],
+    ['script', { src: 'https://js.stripe.com/v3/buy-button.js' }],
   ],
   plugins: [
     [ 

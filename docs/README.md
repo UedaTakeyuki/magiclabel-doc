@@ -13,7 +13,7 @@ posted: 2020-04-07
 ---
 <div class="features">
   <div class="feature">
-    <h2 style="color: #3a5169;">Magic Label™ is the Pre-printed QR code label sticker</h2>
+    <h2 style="color: #3a5169;">Magic Label™ is the <b>URL configurable</b> pre-printed QR code label sticker</h2>
     <img src="./ss.2023-07-07.19.46.46.png">
     <p><a href="./guide/how-it-works">How it works?</a></p>
     <p>Magic Label™ is a <b>Pre-printed QR code label sticker</b> you can stuck everywhere, and quite amazingly <b>you can set a URL</b> on it with your mobile.</p>
@@ -35,6 +35,15 @@ posted: 2020-04-07
     <a href="https://payhip.com/b/GPHU">go to the shop</a>
     <p>The sample product is available from the link above. Ordered items will be delivered by aerogram.</p>
     <img src="https://i.imgur.com/4e652et.png">
+  </div>
+  <div class="feature">
+    <h2 style="color: #3a5169;">Buy Magic Label™ Now!</h2>
+    <stripe-buy-button
+      buy-button-id="buy_btn_1NRYCkG8LX1Yc059ZP3rsE7L"
+      publishable-key="pk_live_5YsfTybJwax93Ph5rsr8qZDx"
+    >
+    </stripe-buy-button>
+    <h2 style="color: #3a5169;"><a href="https://payhip.com/b/bj4t2">or go to Payhip</a></h2>
   </div>
 <!--  
   <div class="feature">
