@@ -6,6 +6,21 @@ module.exports = {
   head: [
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Parisienne&display=swap' }],
     ['script', { src: 'https://js.stripe.com/v3/buy-button.js' }],
+    // https://github.com/vuejs/vuepress/issues/2713#issuecomment-806621348
+    [
+      'script',
+      {
+          async: true,
+          src: 'https://www.googletagmanager.com/gtag/js?id=G-YK7D4V8XHW',
+      },
+    ],
+    [
+        'script',
+        {},
+        [
+            "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-YK7D4V8XHW');",
+        ],
+    ],
   ],
   plugins: [
     [ 
