@@ -18,7 +18,7 @@ import PageNav from '@theme/components/PageNav.vue'
 export default {
   components: { PageEdit, PageNav },
   props: ['sidebarItems'],
-  mounted() {
+/*  mounted() {
   
     import("mermaid/dist/mermaid").then(m => {
       m.initialize({
@@ -35,7 +35,7 @@ export default {
       });
       m.init();
     });
-  },
+  },*/
 }
 </script>
 
