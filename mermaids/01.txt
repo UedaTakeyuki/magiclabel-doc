@@ -1,0 +1,3 @@
+graph TD
+    id1([Read Magic Label]) -->|ID|id2{URL registered?} -->|yes|id4([go to the URL])
+    id2 -->|no|id5([URL registration page])
