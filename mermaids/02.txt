@@ -1,0 +1,13 @@
+sequenceDiagram
+    box inside the device
+    participant Camera
+    participant Browser
+    end
+
+    participant QR
+    participant A site
+
+    Camera->>QR: Scan QR
+    QR->>Camera: return a URL
+    Camera->>Browser: jump to the URL
+    Browser->>A site: jump to the site
