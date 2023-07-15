@@ -1,0 +1,39 @@
+sequenceDiagram
+    box inside the device
+    participant Camera
+    participant Browser
+    end
+
+    participant Magic Label
+
+    box Atelier Ueda
+    participant Server
+    participant DB
+    end
+
+    participant A site
+
+    Note over Camera: at first scan
+
+    Camera->>Magic Label: Scan QR
+    Magic Label->>Camera: return a URL of Atelier Ueda + Label ID
+    Camera->>Browser: jump to Atelier Ueda
+    Browser->>Server: jump to URL of Atelier Ueda + Label ID
+    Server->>DB: URL is registered?
+    DB->>Server: No
+    Note left of DB: NO
+    Server->>Browser: set URL app
+    Browser->>Server: URL to jump
+    Server->>DB: register URL
+
+    Note over Camera: at second scan or later
+
+    Camera->>Magic Label: Scan QR
+    Magic Label->>Camera: return a URL of Atelier Ueda + Label ID
+    Camera->>Browser: jump to Atelier Ueda
+    Browser->>Server: jump to URL of Atelier Ueda + Label ID
+    Server->>DB: URL is registered?
+    DB->>Server: Yes
+    Note left of DB: Yes
+    Server->>Browser: redirect to registered URL
+    Browser->>A site: redirect to registered URL
