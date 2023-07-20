@@ -15,9 +15,13 @@ The server checks the internal DataBase with the id and leads you to the URL reg
 <img src="https://kroki.io/mermaid/svg/eNpLL0osyFAIceFSAILMFEON6KDUxBQF38T0zGQFn8Sk1JxYTQVdXbsaT5eazBSj6tAgH4Wi1PTM4pLUotQU-1qwXGVqMVDSRCM6PV-hBIgyUhWA6mI1oYYagRXl5QPVmGpEI0woSizJzM9TKEhMTwWqBQC-gyv7">
 
 
-## Ordinally QR Code
+## Scanning process of ordinally QR code
+
+For the ordinally QR code, scanning is take place inside your phone. The camera device on your phone scans a QR code and decodes scanned 2-D image to a URL. Then the browser on your phone jumps to the URL. That is.
+
 <!-- mermaids/02.txt -->
 <img src="https://kroki.io/mermaid/svg/eNplj0sOwyAMRPc5hS_QC7CI1M-yG6h6ABes1pUgqYG0xy-CZBHh5cwbjx3pkylYujA-Bf0AZR7TDzhEdgTpReBoYUvVmVESW54xJDijJ8FOPsn0jSRVp-CGDtCmk44QOVFD29rDOGqj4GYxbAFtithcBUIpSwCEu7nuY2u_gnf2M6SpvrBRq1mwVrmn6hF_OVVVLw==">
 
-## for Magic Label
+## Scanning process of Magic Label
+For the Magic Label, because this is a kind of web application, 
 <img src="https://kroki.io/mermaid/svg/eNrtU8tOw0AMvOcrfEf8QA5FDbkglSJa9cDR3bhhUbIbvE7h89lH2iYKBT6APXrG47FH6-i9J6Oo1Fgzthn4t7efoI3TFYG8ElR01Ioi0iGLVrpDI3CPLTHOygXbD0cc62SqbEZ4xForWOGemuw8binUaGLYUTWX3BIfB8VxuSyuD1mC00KpvrZCYL3CYDkHFDhodgJOoUmkBN0uFiN7OWw9Ds-byBgBnnaSYpKeDSDsNiuwh8kicJPo8FBOZww3yuGtbzsQO19_YHhuWv5C_cOc1OJ7yyKPfO28z1o7IabqLnLKYqS9tpdDNXSQMCD0rp-memffjiQKY9ddsRtQ7za4nns6mQmsHzJypKypYkhgGRr0Lf9pwQu57-M6AfO8vJBmUhIsXbTj-af-07_5pSFkkH0BVIhO0w==">
