@@ -23,5 +23,13 @@ For the ordinally QR code, scanning is take place inside your phone. The camera 
 <img src="https://kroki.io/mermaid/svg/eNplj0sOwyAMRPc5hS_QC7CI1M-yG6h6ABes1pUgqYG0xy-CZBHh5cwbjx3pkylYujA-Bf0AZR7TDzhEdgTpReBoYUvVmVESW54xJDijJ8FOPsn0jSRVp-CGDtCmk44QOVFD29rDOGqj4GYxbAFtithcBUIpSwCEu7nuY2u_gnf2M6SpvrBRq1mwVrmn6hF_OVVVLw==">
 
 ## Scanning process of Magic Label
-For the Magic Label, because this is a kind of web application, 
+The QR code pre-printed on the magic label is linked to the **Atelier Ueda Server** with a **unique Label ID** parameter.  
+
+On the first scan, the AtelierUeda server checks the internal database to see if the Label ID passed by the parameter already has a URL. Then,
+
+- In case of **doesn't have a URL**, the Atelier Ueda Server returns a Web Page **to set a URL** to the ID.  
+
+- In case of **has a URL**, the Atelier Ueda Server returns a Web Page **to jump to the URL** linked to the ID.  
+
+
 <img src="https://kroki.io/mermaid/svg/eNrtU8tOw0AMvOcrfEf8QA5FDbkglSJa9cDR3bhhUbIbvE7h89lH2iYKBT6APXrG47FH6-i9J6Oo1Fgzthn4t7efoI3TFYG8ElR01Ioi0iGLVrpDI3CPLTHOygXbD0cc62SqbEZ4xForWOGemuw8binUaGLYUTWX3BIfB8VxuSyuD1mC00KpvrZCYL3CYDkHFDhodgJOoUmkBN0uFiN7OWw9Ds-byBgBnnaSYpKeDSDsNiuwh8kicJPo8FBOZww3yuGtbzsQO19_YHhuWv5C_cOc1OJ7yyKPfO28z1o7IabqLnLKYqS9tpdDNXSQMCD0rp-memffjiQKY9ddsRtQ7za4nns6mQmsHzJypKypYkhgGRr0Lf9pwQu57-M6AfO8vJBmUhIsXbTj-af-07_5pSFkkH0BVIhO0w==">
