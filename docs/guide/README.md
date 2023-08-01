@@ -9,3 +9,4 @@ posted: 2020-04-10
 
 - [How it works](how-it-works): How the magic label mechanism is realized.
 - [Basic-usage](basic-usage):
+- [Expiration](expiration):
