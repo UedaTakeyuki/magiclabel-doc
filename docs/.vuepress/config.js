@@ -46,7 +46,8 @@ module.exports = {
     '/guide/': [
       'how-it-works',                 /* /guide/ */
       'basic-usage',
-      'getting-started',  /* /guide/started.html */
+      'expiration',
+//      'getting-started',  /* /guide/started.html */
     ],
 /*  TODO:
     '/others/': [
