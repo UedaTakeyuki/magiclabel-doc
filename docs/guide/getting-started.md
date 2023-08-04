@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-prev: /guide/
+prev: false
 next: false
 sidebarDepth: 3
 ---

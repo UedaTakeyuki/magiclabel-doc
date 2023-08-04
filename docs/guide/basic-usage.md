@@ -1,7 +1,7 @@
 ---
 title: Basic usage
-prev: /guide/
-next: false
+prev: how-it-works
+next: expiration
 sidebarDepth: 3
 ---
 # Basic usage
