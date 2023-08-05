@@ -1,6 +1,6 @@
 ---
 title: How it workds
-prev: false
+prev: /guide/
 next: basic-usage
 sidebarDepth: 3
 posted: 2020-04-10
