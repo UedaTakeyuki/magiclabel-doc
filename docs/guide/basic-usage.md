@@ -6,8 +6,13 @@ sidebarDepth: 3
 ---
 # Basic usage
 
-## First Use
-When you first read a new Magic Label™, the following screen will open. 
+Magic Label™ is the pre-printed QR code label sticker that the URL is linking to a <b>web application</b> as follows:
+
+- At the first scan, you can set the URL to jump.
+- At the second scan or later, you will see the URL you've set above.
+
+## First Scan
+At the read scan, the following screen will open. 
 
 <img src="https://i.imgur.com/ZNcLynv.png">
 
